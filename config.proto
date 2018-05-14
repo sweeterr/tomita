@@ -1,0 +1,21 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "mydic1.gzt";
+
+  Articles = [
+    { Name = "имя" }
+    , { Name = "People" }
+    , { Name = "Org" }
+    , { Name = "Loc" }
+  ]
+
+  Facts = [
+    { Name = "Person" }
+    , { Name = "Object" }
+  ]
+
+  Output = {
+    Format = proto;
+  }
+}

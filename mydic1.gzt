@@ -1,0 +1,130 @@
+encoding "utf8";
+
+import "base.proto";
+import "articles_base.proto";
+import "facttypes.proto";
+
+TAuxDicArticle "org_descr"
+{
+    key = { "dictionaries/organizations/dic_org_descr.txt" type=FILE }
+}
+
+TAuxDicArticle "org_mass_media"
+{
+    key = { "dictionaries/organizations/dic_org_mass_media.txt" type=FILE }
+}
+
+TAuxDicArticle "org_rus_fed"
+{
+    key = { "dictionaries/organizations/dic_org_rus_federal.txt" type=FILE }
+}
+
+TAuxDicArticle "org_dept"
+{
+    key = { "dictionaries/organizations/dic_org_department.txt" type=FILE }
+}
+
+TAuxDicArticle "org_rus_bus"
+{
+    key = { "dictionaries/organizations/dic_org_rus_business.txt" type=FILE }
+}
+
+TAuxDicArticle "org_other_bus"
+{
+    key = { "dictionaries/organizations/dic_org_other_business.txt" type=FILE }
+}
+
+TAuxDicArticle "org_gov"
+{
+    key = { "dictionaries/organizations/dic_org_government.txt" type=FILE }
+}
+
+TAuxDicArticle "org_news"
+{
+    key = { "dictionaries/organizations/dic_org_news.txt" type=FILE }
+}
+
+TAuxDicArticle "org_union"
+{
+    key = { "dictionaries/organizations/dic_org_unions.txt" type=FILE }
+}
+
+TAuxDicArticle "org_internat"
+{
+    key = { "dictionaries/organizations/dic_org_international.txt" type=FILE }
+}
+
+TAuxDicArticle "org_intergov"
+{
+    key = { "dictionaries/organizations/dic_org_intergov.txt" type=FILE }
+}
+
+TAuxDicArticle "org_rus_party"
+{
+    key = { "dictionaries/organizations/dic_org_russian_parties.txt" type=FILE }
+}
+
+TAuxDicArticle "org_state_type"
+{
+    key = { "dictionaries/organizations/dic_org_state_types.txt" type=FILE }
+}
+
+TAuxDicArticle "org_site"
+{
+    key = { "dictionaries/organizations/dic_org_sites.txt" type=FILE }
+}
+
+TAuxDicArticle "loc_descr"
+{
+    key = { "dictionaries/locations/dic_loc_descr.txt" type=FILE }
+}
+
+TAuxDicArticle "geo_direction"
+{
+    key = { "dictionaries/locations/dic_direction.txt" type=FILE }
+}
+
+TAuxDicArticle "country"
+{
+    key = { "dictionaries/locations/dic_country.txt" type=FILE }
+}
+
+TAuxDicArticle "country_short_name"
+{
+    key = { "dictionaries/locations/dic_country_short_name.txt" type=FILE }
+}
+
+TAuxDicArticle "city"
+{
+    key = { "dictionaries/locations/dic_city.txt" type=FILE }
+}
+
+TAuxDicArticle "other_location"
+{
+    key = { "dictionaries/locations/dic_loc_other.txt" type=FILE }
+}
+
+TAuxDicArticle "astronomical_object"
+{
+    key = { "dictionaries/locations/dic_solar_system.txt" type=FILE }
+}
+
+TAuxDicArticle "имя"
+{
+    key = { "alg:fio" type=CUSTOM }
+}
+
+TAuxDicArticle "People"
+{
+    key = { "tomita:grammars/people.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "Org"
+{
+    key = { "tomita:grammars/org.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "Loc"
+{
+    key = { "tomita:grammars/loc.cxx" type=CUSTOM }
+}

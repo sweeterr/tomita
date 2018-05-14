@@ -1,0 +1,234 @@
+saudi press agency 
+spa 
+agence france-presse 
+france-presse 
+afp 
+agência brasil 
+abr 
+agència catalana de notícies 
+acn 
+agencia efe 
+agenția română de presă 
+agerpres 
+agenzia giornalistica italia 
+agi 
+agenzia nazionale stampa associata 
+ansa 
+akipress news agency 
+algemeen nederlands persbureau 
+anp 
+algeria press service 
+aps 
+all headline news 
+ahn 
+anadolu agency 
+antara 
+armenpress 
+asian news international 
+ani 
+associated press 
+ap 
+associated press of pakistan 
+app 
+athens news agency-macedonian press agency 
+ana 
+australian associated press 
+aap 
+austria presse agentur 
+apa 
+azerbaijan press agency 
+apa 
+azerbaijan state telegraph agency 
+azertac 
+bahrain news agency 
+bna 
+bakhtar news agency 
+baltic news service 
+bns 
+bangladesh sangbad shangstha 
+mohammadi news agency 
+belga 
+belga 
+bloomberg news 
+bno news 
+bulgarian telegraph agency 
+bta 
+canadian press 
+central news agency 
+china news service 
+cns 
+dapd news agency 
+dapd 
+deutsche presse-agentur 
+dpa 
+dow jones newswires 
+european pressphoto agency 
+epa 
+islamic consultative assembly news agency 
+icana 
+islamic republic news agency 
+irna 
+iranian students' news agency 
+isna 
+ihlas news agency 
+iha 
+ira news agency 
+pak 
+indian news agency 
+ina 
+indo-asian news service 
+ians 
+interfax 
+inter press service 
+ips 
+information telegraph agency of russia 
+itar-tass 
+jiji press 
+kenya news agency 
+kyodo news 
+lao news agency 
+kpl 
+lusa news agency 
+lusa 
+magyar távirati iroda 
+mti 
+malaysian national news agency 
+bernama 
+namibia press agency 
+nampa 
+national iraqi news agency 
+nina 
+new zealand press association 
+nzpa 
+newseria agencja prasowa 
+newseria 
+norsk telegrambyrå 
+ntb 
+notimex 
+pacnews 
+pakistan press international 
+ppi 
+panarmenian.net 
+philippines news agency 
+pna 
+polska agencja prasowa 
+pap 
+press association 
+pa 
+pressclub information agency 
+pia 
+press trust of india 
+pti 
+qatar news agency 
+qna 
+reuters 
+ria novosti 
+ria 
+ritzaus bureau ritzau 
+ruptly 
+saba news agency or yemen news agency 
+saba 
+schweizerische depeschenagentur 
+sda 
+sipa usa 
+samachar bharti 
+sb 
+slovenian press agency 
+sta 
+suomen tietotoimisto 
+stt 
+syrian arab news agency 
+sana 
+tahitipresse 
+atp 
+tanjug 
+telenoticiosa americana 
+telam 
+tidningarnas telegrambyrå 
+trans asia news service 
+turkmenistan state news agency 
+uni 
+ukrainian independent information agency 
+unian 
+united news of bangladesh 
+unb 
+united press international 
+upi 
+world entertainment news network 
+wenn 
+world is one news 
+wion 
+xinhua news agency 
+xinhua 
+yonhap news agency 
+yonhap 
+zuma press 
+ассошиэйтед пресс 
+bloomberg 
+reuters 
+united press international 
+upi 
+deutsche presse-agentur 
+dpa 
+франс-пресс 
+efe 
+синьхуа 
+информационный агентство россия "тасс" 
+тасс 
+миа "россия сегодня" 
+риа "новости" 
+риа " новости "
+риа новости
+агентство экономический информация "прайм" 
+российский агентство правовой и судебный информация 
+рапси 
+агентство спортивный информация "р-спорт" 
+интерфакс 
+рбк 
+regnum 
+росбалт 
+риа "ореанда" 
+агентство национальный новость 
+анн 
+укринформ 
+униан 
+лігабізнесінформ 
+украинский новость 
+интерфакс-украина 
+рбк-украина 
+українські національні новини 
+унн 
+західно інформаційный корпораціть 
+zik 
+белапать 
+белорусский телеграфный агентство 
+бёлтый 
+военный информационный агентство "ваяр" 
+интерфакс-запад 
+казинформ 
+казтаг 
+интерфакс-казахстан 
+акиpress 
+24.kg 
+кабарлар.kg 
+k-news 
+tdh — туркменский государственный информационный служба "туркмендовлетхабарлары" 
+туркменинформ 
+azəri press agentliyi 
+apa 
+азертадж — азербайджанский государственный информационный агентство 
+trend xəbər agentliyi 
+turan informasiya agentliyi 
+интерфакс-азербайджан 
+арменпресс 
+armenianow.com 
+arminfo 
+panarmenian.net 
+новость армения 
+news.am 
+armenia today 
+armtoday.info 
+ами "новости-армения" 
+newsarmenia.am 
+арка 
+рейтер

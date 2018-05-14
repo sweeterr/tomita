@@ -1,0 +1,530 @@
+sharespost
+business nz
+ferrari
+макларен-мерседес
+red bull
+феррари
+kraftwerk
+depeche mode
+the smiths
+фольксваген
+placebook
+teachbook
+3com
+facebook
+philips
+фэйсбук
+"фэйсбук"
+hewlett-packard
+google
+zynga
+comscore
+vestas
+digital sky technologies
+dst
+mysql
+майкрософт
+
+walmart
+state grid 
+china national petroleum 
+sinopec group 
+royal dutch shell 
+exxon mobil 
+volkswagen 
+toyota motor 
+apple 
+bp 
+berkshire hathaway 
+mckesson 
+samsung electronics 
+glencore 
+industrial & commercial bank of china 
+daimler 
+unitedhealth group 
+cvs health 
+exor group 
+general motors 
+ford motor 
+china construction bank 
+at&t 
+total 
+hon hai precision industry 
+general electric 
+china state construction engineering 
+amerisourcebergen 
+agricultural bank of china 
+verizon 
+chevron 
+e.on 
+axa 
+allianz 
+bank of china 
+honda motor 
+japan post holdings 
+costco 
+bnp paribas 
+fannie mae 
+ping an insurance 
+kroger 
+société générale 
+amazon.com 
+china mobile communications 
+saic motor 
+walgreens boots alliance 
+hp 
+assicurazioni generali 
+cardinal health 
+bmw 
+express scripts holding 
+nissan motor 
+china life insurance 
+j.p. morgan chase 
+gazprom 
+china railway engineering 
+petrobras 
+trafigura group 
+nippon telegraph & telephone 
+boeing 
+china railway construction 
+microsoft 
+bank of america corp. 
+eni 
+nestlé 
+wells fargo 
+hsbc holdings 
+home depot 
+citigroup 
+siemens 
+tesco 
+carrefour 
+phillips 66 
+banco santander 
+lukoil 
+crédit agricole 
+enel 
+hitachi 
+électricité de france 
+dongfeng motor group 
+ibm 
+valero energy 
+hyundai motor 
+anthem 
+procter & gamble 
+robert bosch 
+basf 
+engie 
+deutsche telekom 
+china resources national 
+softbank group 
+state farm insurance cos. 
+alphabet 
+china southern power grid 
+comcast 
+target 
+pemex 
+pacific construction group 
+airbus group 
+metro 
+china south industries group 
+johnson & johnson 
+metlife 
+china post group 
+munich re group 
+u.s. postal service 
+deutsche post 
+china national offshore oil 
+china communications construction 
+aeon 
+archer daniels midland 
+sony 
+nippon life insurance 
+banco do brasil 
+noble group 
+ing group 
+rosneft oil 
+people’s insurance co. of china 
+marathon petroleum 
+cofco 
+tewoo group 
+arcelormittal 
+freddie mac 
+petronas 
+prudential 
+pepsico 
+panasonic 
+huawei investment & holding 
+china faw group 
+jx holdings 
+china telecommunications 
+vodafone group 
+china north industries group 
+dai-ichi life insurance 
+united technologies 
+telefónica 
+marubeni 
+sinochem group 
+peugeot 
+zurich insurance group 
+aetna 
+aviation industry corp. of china 
+auchan holding 
+statoil 
+ptt 
+unilever 
+lowe’s 
+ups 
+aig 
+mitsubishi 
+prudential financial 
+bank of communications 
+américa móvil 
+groupe bpce 
+citic group 
+louis dreyfus 
+intel 
+itaú unibanco holding 
+beijing automotive group 
+indian oil 
+humana 
+shandong weiqiao pioneering group 
+disney 
+bayer 
+deutsche bank 
+roche group 
+bhp billiton 
+toshiba 
+finatis 
+wesfarmers 
+korea electric power 
+posco 
+rwe 
+novartis 
+woolworths 
+tokyo electric power 
+renault 
+seven & i holdings 
+lg electronics 
+barclays 
+cnp assurances 
+cisco systems 
+thyssenkrupp 
+jbs 
+pfizer 
+dow chemical 
+sysco 
+china merchants bank 
+amer international group 
+mitsubishi ufj financial group 
+fedex 
+lloyds banking group 
+caterpillar 
+industrial bank 
+saint-gobain 
+lockheed martin 
+new york life insurance 
+sberbank 
+powerchina 
+hesteel group 
+lenovo group 
+deutsche bahn 
+orange 
+sinopharm 
+coca-cola 
+china united network communications 
+kia motors 
+banco bradesco 
+vinci 
+anheuser-busch inbev 
+hca holdings 
+continental 
+bunge 
+reliance industries 
+sse 
+china huaneng group 
+ingram micro 
+banco bilbao vizcaya argentaria 
+centrica 
+china minsheng banking 
+royal ahold 
+itochu 
+intesa sanpaolo 
+energy transfer equity 
+tata motors 
+shanghai pudong development bank 
+christian dior 
+cefc china energy 
+pertamina 
+ms&ad insurance group holdings 
+state bank of india 
+sanofi 
+chemchina 
+tyson foods 
+american airlines group 
+hyundai heavy industries 
+nippon steel & sumitomo metal 
+delta air lines 
+maersk group 
+nationwide 
+johnson controls 
+sumitomo mitsui financial group 
+best buy 
+mitsui 
+merck 
+sabic 
+fujitsu 
+liberty mutual insurance group 
+repsol 
+china pacific insurance group 
+china pacific insurance 
+goldman sachs group 
+aegon 
+wilmar international 
+acs 
+honeywell international 
+ubs group 
+massachusetts mutual life insurance 
+pegatron 
+oracle 
+tokio marine holdings 
+aluminum corp. of china 
+morgan stanley 
+cigna 
+united continental holdings 
+crrc 
+jizhong energy group 
+denso 
+commonwealth bank of australia 
+shenhua group 
+kddi 
+volvo 
+jardine matheson 
+george weston 
+baosteel group 
+mitsubishi electric 
+hanwha 
+glaxosmithkline 
+aviva 
+bouygues 
+china shipbuilding industry 
+swiss re 
+allstate 
+meiji yasuda life insurance 
+lufthansa group 
+abb 
+schlumberger 
+j. sainsbury 
+talanx 
+china metallurgical group 
+tiaa 
+credit suisse group 
+sinomach 
+sk holdings 
+iberdrola 
+rio tinto group 
+royal bank of canada 
+intl fcstone 
+chs 
+unicredit group 
+alimentation couche-tard 
+american express 
+guangzhou automobile industry group 
+national australia bank 
+poste italiane 
+magna international 
+mitsubishi heavy industries 
+sumitomo 
+china energy engineering group 
+hyundai mobis 
+greenland holding group 
+accenture 
+china everbright group 
+jiangsu shagang group 
+lyondellbasell industries 
+gilead sciences 
+publix super markets 
+xinxing cathay international group 
+sncf mobilités 
+zf friedrichshafen 
+edeka zentrale 
+datong coal mine group 
+china minmetals 
+mitsubishi chemical holdings 
+shaanxi yanchang petroleum group 
+shaanxi yanchang petroleum 
+quanta computer 
+china national building materials group 
+jiangxi copper 
+china electronics 
+general dynamics 
+china huadian 
+canon 
+bridgestone 
+dz bank 
+sumitomo life insurance 
+westpac banking 
+shanxi coking coal group 
+tjx 
+conocophillips 
+rite aid 
+fresenius 
+state power investment 
+nike 
+china aerospace science & technology 
+china guodian 
+world fuel services 
+shaanxi coal & chemical industry 
+3m 
+china state shipbuilding 
+toronto-dominion bank 
+power corp. of canada 
+mondelez international 
+hna group 
+schneider electric 
+exelon 
+china vanke 
+lm ericsson 
+bharat petroleum 
+wuchan zhongda group 
+twenty-first century fox 
+royal bank of scotland group 
+australia & new zealand banking group 
+air france-klm group 
+deere 
+gas natural fenosa 
+jd.com 
+hindustan petroleum 
+royal philips 
+bt group 
+shanxi luan mining group 
+jfe holdings 
+migros group 
+mazda motor 
+yangquan coal industry group 
+tesoro 
+time warner 
+northwestern mutual 
+l’oréal 
+dupont 
+avnet 
+china aerospace science & industry 
+veolia environnement 
+china general technology 
+shanxi jincheng anthracite coal mining group 
+dalian wanda group 
+china nonferrous metal mining group 
+china nonferrous metal mining 
+compass group 
+sompo japan nipponkoa holdings 
+macy’s 
+delhaize group 
+kansai electric power 
+enterprise products partners 
+aisin seiki 
+manulife financial 
+fuji heavy industries 
+coop group 
+travelers cos. 
+philip morris international 
+mizuho financial group 
+compal electronics 
+china poly group 
+daiwa house industry 
+taiwan semiconductor manufacturing 
+telecom italia 
+suzuki motor 
+china datang 
+enbridge 
+china electronics technology group 
+tech data 
+zhejiang geely holding group 
+crh 
+idemitsu kosan 
+achmea 
+lotte shopping 
+bae systems 
+phoenix pharmahandel 
+vale 
+la poste 
+koç holding 
+mcdonald’s 
+international airlines group 
+qualcomm 
+rajesh exports 
+medipal holdings 
+sears holdings 
+shandong energy group 
+new china life insurance 
+bank of nova scotia 
+lg display 
+capital one financial 
+gs caltex 
+omv group 
+danone 
+mapfre group 
+astrazeneca 
+emc 
+wm. morrison supermarkets 
+lafargeholcim 
+samsung life insurance 
+sumitomo electric industries 
+flextronics international 
+adecco group 
+cpc 
+usaa 
+rabobank group 
+duke energy 
+east japan railway 
+chubu electric power 
+halliburton 
+northrop grumman 
+michelin 
+nec 
+energie baden-württemberg 
+pkn orlen group 
+arrow electronics 
+aia group 
+raytheon 
+suncor energy 
+heineken holding 
+plains gp holdings 
+us foods holding 
+sap 
+inditex 
+korea gas 
+china cosco shipping 
+sodexo 
+tui 
+cathay life insurance 
+abbvie 
+centene 
+national grid 
+emirates group 
+ck hutchison holdings 
+ultrapar holdings 
+community health systems 
+alcoa 
+greenergy fuels holdings 
+vtb bank 
+international paper 
+emerson electric 
+midea group 
+telstra 
+onex 
+china national aviation fuel group 
+union pacific 
+wolseley 
+amgen 
+h & m hennes & mauritz 
+shougang group 
+u.s. bancorp 
+unipol group 
+alfresa holdings 
+swiss life 
+randstad holding 
+wh group 
+evergrande real estate group 
+staples 
+standard chartered 
+rolls-royce holdings 
+old mutual 
